@@ -1,2 +1,2 @@
 # Excel-Portfolio-Projects
-This repository contains excel projects files
+This repository contains Excel projects files
